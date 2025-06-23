@@ -22,7 +22,7 @@
 ## 📈 GitHub Activity
 
 <p style="display: flex;">
-    <img style="height: auto; width: 60%" src="https://github-readme-stats.vercel.app/api?username=magicgopher&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&title_color=2f80ed&icon_color=434d58&text_color=4c71f2&bg_color=0,FF69B4,FFD700,00FA9A&theme=graywhite" ><img style="height: auto; width: 40%;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=magicgopher&hide_title=true&hide_border=true&layout=compact&bg_color=0,00FA9A,FFD700,FF69B4&theme=graywhite" >
+    <img style="height: auto; width: 60%" src="https://github-readme-stats-chi-eight-92.vercel.app/api?username=magicgopher&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&title_color=2f80ed&icon_color=434d58&text_color=4c71f2&bg_color=0,FF69B4,FFD700,00FA9A&theme=graywhite" ><img style="height: auto; width: 40%;" src="https://github-readme-stats-chi-eight-92.vercel.app/api/top-langs/?username=magicgopher&hide_title=true&hide_border=true&layout=compact&bg_color=0,00FA9A,FFD700,FF69B4&theme=graywhite" >
 </p>
 
 ## 🚀 Tech Stack
